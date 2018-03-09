@@ -1,0 +1,2 @@
+# Time-series-Models-selection-stock-return-prediction
+This is a model selection coding script for predicting time series covering comparison between Lasso, PM and kitchen sink model as well as based on both MSE and economic loss function. The data is downloaded from Amit Goyal’s web site and is an extended version of the data used by Goyal and Welch (Review of Financial Studies, 2008). It contains monthly information on US stock returns as well as on a range of predictor variables proposed in the literature. 
